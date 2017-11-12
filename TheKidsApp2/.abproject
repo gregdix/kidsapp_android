@@ -1,0 +1,45 @@
+{
+  "ProjectName": "TheKidsApp2",
+  "ProjectGuid": "5846fa57-c043-4791-8685-545b5d740399",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.TheKidsApp2",
+  "DisplayName": "TheKidsApp2",
+  "Author": "",
+  "Description": "TheKidsApp2",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "6.4.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{db1c6aca-b04c-4719-9f6e-e393a60888ee}",
+  "WP8ProductID": "{f7a61f0a-ba32-4fe7-af22-aa026c6d0673}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.TheKidsApp2",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
