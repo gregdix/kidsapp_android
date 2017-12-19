@@ -5,7 +5,7 @@
   "AppIdentifier": "com.telerik.TheKidsApp2",
   "DisplayName": "TheKidsApp",
   "Author": "",
-  "Description": "TheKidsApp2",
+  "Description": "TheKidsApp",
   "BundleVersion": "1.0",
   "AndroidVersionCode": "1",
   "iOSDeviceFamily": [
@@ -41,6 +41,5 @@
     "ID_RESOLUTION_WVGA",
     "ID_RESOLUTION_WXGA",
     "ID_RESOLUTION_HD720P"
-  ],
-  "iOSDeploymentTarget": "6.0"
+  ]
 }
